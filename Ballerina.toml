@@ -1,0 +1,3 @@
+[workspace]
+title = "DevantTest"
+packages = ["http"]
