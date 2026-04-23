@@ -1,2 +1,3 @@
-- org: nivea
-  project: devanttest
+- org: devantdemos
+  project: niveathika
+  local: true
